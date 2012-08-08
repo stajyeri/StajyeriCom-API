@@ -9,4 +9,4 @@ API Kullanımı için öncelikle İşletme yada Öğrenci Üyeliğiniz Bulunmas�
 + Başvuruları Kabul Etme
 + İstatistik Kontrolü
 + Staj 'a Çağırılma
-===============
+
